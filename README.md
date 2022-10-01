@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://media1.giphy.com/media/DIU76SZTx22f28gyPu/giphy.gif?cid=790b76116b5eb5a6eeef2256e2dbcf09fc2933c798fa31e6&rid=giphy.gif&ct=g)
+![](https://media3.giphy.com/media/kJtZpXV5hOqjNgCOjI/giphy.gif?cid=790b7611c581a2a5ea4ff8182ad5395b8cb02e9e6807c256&rid=giphy.gif&ct=g)
 
